@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DSA with Java<br>💬 Ask me about<br>⚡ Fun fact
+Hello I'm Kartikeya Kesarwani
+🌱 I’m currently learning DSA with Java
 
 
 ## 🌐 Socials:
