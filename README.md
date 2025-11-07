@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hello I'm Kartikeya Kesarwani<br>
-🌱 I’m currently learning DSA with Java
+## Hi there 👋
+I'm Kartikeya Kesarwani<br>
+- 🔭 I’m currently working on DSA and Complete Full Stack Development
+- 🌱 I’m currently learning DSA and MERN Stack
+- 😄 Pronouns: kartikkes02
 
 
 ## 🌐 Socials:
