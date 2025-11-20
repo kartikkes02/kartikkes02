@@ -1,15 +1,10 @@
 # 💫 About Me:
  Hi there 👋
 - I'm Kartikeya Kesarwani<br>
- - 💻 I’m a passionate **Full-Stack Web Developer**. <br/>
+ 💻 I’m a passionate **Full-Stack Web Developer**. <br/>
  🌱 I’m currently learning DSA and MERN Stack.                               
  🎓 Currently pursuing my **B.Tech in Computer Science** at *Guru Gobind Singh Indraprastha University, Delhi*.  <br/>
  😄 Pronouns: kartikkes02
-
-
-🌐 I love creating scalable and user-friendly web applications.
-🚀 I’m exploring **Next.js, TypeScript, and AI-powered solutions**.  
-💡 I’m driven by curiosity to solve problems creatively and contribute to impactful projects. 
 
 
 ## 🌐 Socials:
