@@ -1,10 +1,10 @@
 # 💫 About Me:
  Hi there 👋
 - I'm Kartikeya Kesarwani<br>
-- 🔭 I’m currently working on DSA and Complete Full Stack Development
-- 🌱 I’m currently learning DSA and MERN Stack.
-- 🎓 Currently pursuing my **B.Tech in Computer Science** at *Guru Gobind Singh Indraprastha University, Delhi*.  <br/>
-- 😄 Pronouns: kartikkes02
+ 🔭 I’m currently working on DSA and Complete Full Stack Development
+ 🌱 I’m currently learning DSA and MERN Stack.
+ 🎓 Currently pursuing my **B.Tech in Computer Science** at *Guru Gobind Singh Indraprastha University, Delhi*.  <br/>
+ 😄 Pronouns: kartikkes02
 
 - 💻 I’m a passionate **Full-Stack Web Developer**. <br/>
 🌐 I love creating scalable and user-friendly web applications.  
