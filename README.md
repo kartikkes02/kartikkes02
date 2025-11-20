@@ -7,8 +7,6 @@
 - 😄 Pronouns: kartikkes02
 
 - 💻 I’m a passionate **Full-Stack Web Developer**. <br/>
-
-🛠️ I’m currently working as a **MERN & AI Intern** at *IPAGE UM Services Pvt. Ltd.*, where I build and maintain scalable company web applications.  
 🌐 I love creating scalable and user-friendly web applications.  
 🚀 I’m exploring **Next.js, TypeScript, and AI-powered solutions**.  
 💡 I’m driven by curiosity to solve problems creatively and contribute to impactful projects. 
