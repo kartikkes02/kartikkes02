@@ -16,6 +16,7 @@
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkes02&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikkes02&show_icons=true&theme=radical" />
 ![](https://github-readme-stats.vercel.app/api?username=kartikkes02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kartikkes02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkes02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
