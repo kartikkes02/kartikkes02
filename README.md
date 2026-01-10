@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋 
+ Hi there 👋
 - I'm Kartikeya Kesarwani<br>
  💻 I’m a passionate **Full-Stack Web Developer**. <br/>
  🌱 I’m currently learning DSA and Data Science.                               
