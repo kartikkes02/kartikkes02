@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikkes02&show_icons=true&theme=radical" />
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=kartikkes02&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kartikkes02&theme=dark&hide_border=false)<br/> 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikkes02&layout=compact&theme=radical" />
 
 
