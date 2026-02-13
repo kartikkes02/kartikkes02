@@ -2,7 +2,7 @@
  Hi there 👋 
 - I'm Kartikeya Kesarwani<br> 
  💻 I’m a passionate **Full-Stack Web Developer**. <br/>
- 🌱 I’m currently learning **DSA and Data Scienc**.                               
+ 🌱 I’m currently learning **DSA and Data Scien**.                               
  🎓 Currently pursuing my **B.Tech in Computer Science** at *Guru Gobind Singh Indraprastha University, Delhi*.  <br/>
  😄 Pronouns: kartik
 
