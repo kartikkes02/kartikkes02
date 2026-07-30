@@ -17,7 +17,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanu91112&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=kartikkes02&theme=radical" />
 </p>
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkes02&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
