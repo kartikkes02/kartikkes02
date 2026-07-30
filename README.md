@@ -16,7 +16,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=kartikkes02&theme=radical" />
 </p>
 
