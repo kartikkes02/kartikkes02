@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hey there, I'm Aditya Vinayak Sahu 👋
+# Hey there, I'm Kartikeya Kesarwani 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+SRM+IST+%F0%9F%8E%93;MERN+Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A9;Building+cool+things+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
