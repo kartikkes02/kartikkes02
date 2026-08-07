@@ -6,7 +6,17 @@
  🎓 Currently pursuing my **B.Tech in Computer Science** at *Guru Gobind Singh Indraprastha University, Delhi*.  <br/>
  😄 Pronouns: Kartik
 
+<div align="center">
 
+# Hey there, I'm Aditya Vinayak Sahu 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+SRM+IST+%F0%9F%8E%93;MERN+Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A9;Building+cool+things+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sahu-909592353)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaasitis55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahu-adityaVinayak)
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikkes02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-kesarwani-7a5b03293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeyakesarwani@gmail.com) 
